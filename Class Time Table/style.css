@@ -1,0 +1,32 @@
+/* Tea Break column */
+table{
+    border-collapse: collapse;
+    border: 2px solid #333;
+    width: 55%;
+    height: 100%;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #666;
+    padding: 10px;
+}
+.tea {
+  width: 10px; /* adjust width */
+  text-align: center;
+  font-size: 12px; /* smaller text */
+ /* keep vertical */
+  padding: 5px;
+}
+
+/* Lunch Break column */
+.lunch {
+  width: 15px; /* adjust width */
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
