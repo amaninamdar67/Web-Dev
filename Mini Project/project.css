@@ -1,8 +1,6 @@
-body{
-    margin: 10;
-    padding: 10;
-    background: url(full.png)  no-repeat;
-    
-    background-size: cover ;
-
+body {
+  margin: 10;
+  padding: 10;
+  background: url(full.png)  no-repeat;
+  background-size: cover;
 }
