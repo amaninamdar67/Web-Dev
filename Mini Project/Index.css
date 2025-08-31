@@ -1,0 +1,19 @@
+body{
+    background: url(icons8-kali-linux-400.png) top right no-repeat ;
+}
+
+#topright{
+    text-align: right;
+}
+
+#right{
+    text-align: left;
+}
+#bottom{
+    text-align: left;
+
+}
+
+table {
+    border: 2px solid black;
+}
