@@ -1,0 +1,17 @@
+    .header {
+      background-color: lightblue;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .content {
+      background-color: lightgreen;
+      padding: 20px;
+      margin: 10px 0;
+    }
+
+    .footer {
+      background-color: lightcoral;
+      text-align: center;
+      padding: 15px;
+    }
