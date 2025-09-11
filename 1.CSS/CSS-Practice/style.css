@@ -4,7 +4,7 @@ h3{
 
 button{
     color: royalblue;
-    background-color: #c8aadf;
+    background-color: rgb(53, 32, 192);
 }
 
 body{
@@ -13,4 +13,12 @@ body{
 
 h1{
     background-color: #ffff00;
+}
+
+#Link{
+    background-color: #efae96;
+}
+
+*{
+    font-family: 'Courier New', Courier;
 }
