@@ -1,34 +1,16 @@
-p {
-  text-align: left;
-  font-size: 15px;
-}
-#heading {
+#heading{ 
   text-align: center;
-  text-decoration: blue dotted underline;
+  text-transform: capitalize;
 }
 
-.a,
-a {
-  text-align: center;
-  text-decoration: none;
+*{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-#h1 {
-  font-weight: 100;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+#outer{
+  font-size: 25px;
 }
 
-#h2 {
-  font-weight: 400;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-#h3 {
-  font-weight: 500;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-#h4 {
-  font-weight: 900;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+#inner{
+  font-size: 10px;
 }
