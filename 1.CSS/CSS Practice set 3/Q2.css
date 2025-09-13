@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(36, 36, 72);
+}
+
+#nav{ 
+    border: 5px solid white;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    background-color: #0f1111;
+    height: 30px;
+    width: 100%;
+
+}
+
+#link{
+    color: orange;
+    width: 200px;
+}
+
+#acc{
+
+
+}
