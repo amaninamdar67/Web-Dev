@@ -1,0 +1,16 @@
+#div1{
+    background-color: rgba(0,255,0, 0.1);
+}
+#div2{
+    background-color: rgba(0,255,0, 0.5);
+}
+#div3{
+    background-color:rgba(0,255,0, 1);
+}
+div{
+    width: 200px;
+    height: 200px;
+    margin: 25px;
+    padding: 25px;
+    display: inline;
+}
