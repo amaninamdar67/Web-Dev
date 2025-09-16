@@ -1,0 +1,71 @@
+.contentbox{
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nav bar css */
+ body{
+    background-color: rgb(67, 67, 61);
+}
+#nav{
+    display: flex;
+    height: 60px;
+    width: 70%;
+    border: 5px solid white;
+    background-color: #0f1111;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+a{
+    text-decoration: none;
+    padding-left: 5px;
+    padding-bottom: 50px;
+    height: 5px;
+    width: 200px;
+}
+
+#amazon{
+    color: orange;
+}
+
+#acc{
+    color: white;
+}
+
+#cart{
+    color: white;
+}
+
+#contact{
+    color: white;
+
+}
+
+button{
+    background-color: orange;
+    color: white;
+}
